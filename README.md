@@ -1,13 +1,13 @@
 # Build-A-Small-Office-Network
 
-<h2>Failed RDP to IP Geolocation Information</h2>
+<h2>Build a Switch and Router Network</h2>
 
 
- ### [YouTube Demonstration](https://www.youtube.com/watch?v=nYCqmv3kXgY)
+ ### [YouTube Demonstration](https://youtu.be/shg64y6xEC0)
 
 
-<h2>Description</h2>
-<b>The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
+<h2>Scenario</h2>
+<b>In this lab, I have been tasked with helping connect a office network for a small insurance agency. The office has two wired PC's that need to be connected to the network. My job will be to connect the devices, implement a basic configuration, and verify connectivity. 
 </b>
 <br />
 <br />
