@@ -23,8 +23,8 @@
 <b>- ISR4321 Router  </b> 
 <b></b> 
 <b></b> 
- <b>
-Using the Addressing Table, I will assign static IPV4 addressing information to the PC interfaces. 
+<b>
+<h2>Using the Addressing Table, I will assign static IPV4 addressing information to the PC interfaces. </h2>
 <br />
 
 <p align="center">
