@@ -12,16 +12,14 @@
 <b>
 <b>
  <h2>Programs Used</h2>
-
- <b>- Cisco Packet Tracer
- </b>
+<li>Cisco Packet Tracer</li>
 
 <h2>Equipment Used</h2>
 
-<li>2 PC's </li>
-<b>- 2096 IOS Switch </b> 
-<b>- ISR4321 Router  </b>
-</ol>
+<li>2 PC's</li>
+<li>2096 IOS Switch</li>
+<li>ISR4321 Router</li>
+
 <b></b> 
 <b></b> 
 <b>
