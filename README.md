@@ -18,10 +18,10 @@
 
 <h2>Equipment Used</h2>
 
-<li><b>- 2 PC's </b> 
+<ul><b>- 2 PC's </b> 
 <b>- 2096 IOS Switch </b> 
 <b>- ISR4321 Router  </b>
-</li>
+</ul>
 <b></b> 
 <b></b> 
 <b>
