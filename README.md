@@ -37,13 +37,13 @@
 <h2>Ping request failed between PCA and PCB because router interface, which is the default gateway has not been configured yet</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/ykqqfW6.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/ykqqfW6.png" height="85%" width="85%" alt="PCA sending a ping request to PCB"/>
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/4ZqZyku.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 
