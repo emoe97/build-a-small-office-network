@@ -45,10 +45,10 @@
 <p align="center">
 <img src="https://i.imgur.com/4ZqZyku.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 
- <h2>The Router has been properly configured using the Addressing Table</h2>
+ <h2>The router hasc been configured with SSH, enabling remote access. The verification of remote access has been veried.  </h2>
 
 <p align="center">
-<img src="https://i.imgur.com/4ZqZyku.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/Idbg6PY.png" height="85%" width="85%" alt="Remote access has been enabled and veified"/>
 </p>
 
 
