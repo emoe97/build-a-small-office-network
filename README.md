@@ -10,9 +10,12 @@
 <b>In this lab, I have been tasked with helping connect a office network for a small insurance agency. The office has two wired PC's that need to be connected to the network. My job will be to connect the devices, implement a basic configuration, and verify connectivity. 
 </b>
 <b>
+</b>
 <b>
  <h2>Programs Used</h2>
 <li>Cisco Packet Tracer</li>
+<b>
+</b>
 
 <h2>Equipment Used</h2>
 
@@ -27,14 +30,14 @@
 <br />
 
 <p align="center">
-<img src="https://i.imgur.com/6Tt1GNf.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/6Tt1GNf.png" height="85%" width="85%" alt="Address Table"/>
 </p>
 
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Ping request failed between PCA and PCB because router interface, which is the default gateway has not been configured yet</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/qaWjV2c.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/ykqqfW6.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
