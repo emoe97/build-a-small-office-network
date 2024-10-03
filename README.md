@@ -10,20 +10,24 @@
 <b>In this lab, I have been tasked with helping connect a office network for a small insurance agency. The office has two wired PC's that need to be connected to the network. My job will be to connect the devices, implement a basic configuration, and verify connectivity. 
 </b>
 
-<br />
-Using the Addressing Table, I will assign static IPV4 addressing information to the PC interfaces. 
-<br />
-
-<p align="center">
-<img src="https://i.imgur.com/6Tt1GNf.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-</p>
-<h2>Languages Used</h2>
+<b>
+<b>
+  <h2>Languages Used</h2>
 
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
 <h2>Utilities Used</h2>
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
+</b>
+ 
+Using the Addressing Table, I will assign static IPV4 addressing information to the PC interfaces. 
+<br />
+
+<p align="center">
+<img src="https://i.imgur.com/6Tt1GNf.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
 
 <h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
