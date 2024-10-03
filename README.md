@@ -1,4 +1,4 @@
-# Build-A-Small-Office-Network
+# Build-A-Small-Home-Office-Network
 
 <h2>Build a Switch and Router Network</h2>
 
