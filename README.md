@@ -40,7 +40,12 @@
 <img src="https://i.imgur.com/ykqqfW6.png" height="85%" width="85%" alt="PCA sending a ping request to PCB"/>
 </p>
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+<h2>The Router has been properly configured using the Addressing Table</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/4ZqZyku.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+
+ <h2>The Router has been properly configured using the Addressing Table</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/4ZqZyku.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
