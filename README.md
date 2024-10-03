@@ -9,7 +9,9 @@
 <h2>Scenario</h2>
 <b>In this lab, I have been tasked with helping connect a office network for a small insurance agency. The office has two wired PC's that need to be connected to the network. My job will be to connect the devices, implement a basic configuration, and verify connectivity. 
 </b>
+
 <br />
+Using the Addressing Table, I will assign static IPV4 addressing information to the PC interfaces. 
 <br />
 
 <p align="center">
