@@ -11,15 +11,19 @@
 </b>
 <b>
 <b>
-  <h2>Programs Used</h2>
+ <h2>Programs Used</h2>
 
  <b>- Cisco Packet Tracer
-</b>
+ </b>
 
 <h2>Equipment Used</h2>
 
 <b>- 2 PC's </b> 
- 
+<b>- 2096 IOS Switch </b> 
+<b>- ISR4321 Router  </b> 
+<b></b> 
+<b></b> 
+ <b>
 Using the Addressing Table, I will assign static IPV4 addressing information to the PC interfaces. 
 <br />
 
